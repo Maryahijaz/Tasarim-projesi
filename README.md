@@ -1,2 +1,2 @@
-# Tasar-m-projesi
+# Tasarim-projesi
 Tasarım araştırması
